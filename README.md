@@ -2,7 +2,7 @@
 This is a repository created as part of the task for the selection process.
 This is a repository aimed at scraping a webpage to get some required information. This also contains a program to compare two files one csv and one json and then output the required items based on some queries.
 
-Scraping is basically used to extract the information contained in the webpage in case there is no API available for the same. Python is commonly used for web-scraping although it can be done by other languages as well. Parsing is done using Beautiful Soup to the required format. 
+Scraping is basically used to extract the information contained in the webpage in case there is no API available for the same. Python is commonly used for web-scraping although it can be done by other languages as well. In this repo parsing is done using Beautiful Soup to the required format. 
 
 How to run the program:
 
